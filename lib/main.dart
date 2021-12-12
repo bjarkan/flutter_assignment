@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
-        title: Text('Assignment 1'),
+        title: Text('Assignment/Ejercicio 1'),
       ), //appBar
       body: TextControl(),
     ));
